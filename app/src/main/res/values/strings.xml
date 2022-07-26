@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Health</string>
+    <string name="no_internet">No internet connection!</string>
+    <string name="signupwithgoogle">Sign up with google</string>
+
+    <string-array name="data_spinner">
+        <item>Blood pressure</item>
+        <item>The percentage of oxygen</item>
+        <item>Heart beats</item>
+    </string-array>
+</resources>
